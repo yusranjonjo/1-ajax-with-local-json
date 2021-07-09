@@ -1,0 +1,52 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+:root {
+    font: 10px 'cabin', sans-serif;
+}
+
+.container {
+    width: 95%;
+    margin: 30px auto;
+    padding: 10px;
+    background: #9c9c9c;
+    border: 1px solid black;
+}
+
+.cards {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 300px));
+    gap: 10px;
+    place-content: center;
+}
+
+.card {
+    background: #848661;
+    /* border: 1px solid black; */
+    border-radius: 8px;
+    display: grid;
+    place-items: center;
+}
+
+.icon {
+    width: 100%;
+    padding: 20px 0;
+    background: #fff;
+    font-size: 10rem;
+    display: grid;
+    place-items: center;
+}
+
+ul {
+    padding: 10px;
+}
+
+li {
+    padding: 5px;
+    font-size: 2rem;
+    list-style: none;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "icon": "🥭",
+        "nama": "mangga",
+        "jenis": "mangga madu",
+        "harga": 25000
+    },
+    {
+        "id": 2,
+        "icon": "🍎",
+        "nama": "apel",
+        "jenis": "apel malang",
+        "harga": 40000
+    },
+    {
+        "id": 3,
+        "icon": "🍌",
+        "nama": "pisang",
+        "jenis": "pisang ambon",
+        "harga": 20000
+    },
+    {
+        "id": 4,
+        "icon": "🥝",
+        "nama": "kiwi",
+        "jenis": "kiwi australia",
+        "harga": 80000
+    },
+    {
+        "id": 5,
+        "icon":"🍉",
+        "nama": "semangka",
+        "jenis": "semangka jumbo",
+        "harga": 50000
+    },
+    {
+        "id": 6,
+        "icon":"🍉",
+        "nama": "semangka",
+        "jenis": "semangka jumbo",
+        "harga": 50000
+    }
+]
